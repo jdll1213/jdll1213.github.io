@@ -3,6 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # This is "front matter." It won't show up on the page.
-layout: home
+layout: single
 author_profile: true
 ---
